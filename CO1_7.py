@@ -6,6 +6,8 @@ lst2=[9,7,50,78,60,440,700]
 
 "Check (a) Whether list are of same length "
 
+
+
 if lst1==lst2:
     print("List Have same lentgh")
 else:
