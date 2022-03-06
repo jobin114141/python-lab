@@ -3,8 +3,7 @@
 Overload ‘<’ operator
 to compare the area of 2 rectangles.
 """
-#RAHUL MS
-#21MCA035
+
 class Rectangle:
     __length=0
     __width=0
